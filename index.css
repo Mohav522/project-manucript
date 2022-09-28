@@ -1,0 +1,62 @@
+body { background-color: rgb(255, 255, 255); }
+
+h1 {
+	text-align: center;
+	font-family: Georgia, serif;
+	font-size: 40px;
+	font-kerning: calc(20);
+  }
+
+  h2 {
+	line-height: 25px;
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-style: italic;
+	font-kerning: calc(40);
+	font-weight: 250;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 75ch;
+	font-size: 18px;
+  }
+
+  p {
+	line-height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 75ch;
+	text-align: center;
+	text-align: justify;
+	font-family: Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: 290;
+	font-kerning:calc(25);
+  }
+
+
+  body {
+	padding: 25px;
+	background-color: white;
+	color: black;
+	font-size: 25px;
+  }
+  
+  .dark-mode {
+	background-color: black;
+	color: white;
+  }
+
+  a {
+	background-color: gold;
+	text-decoration: underline;
+}
+
+div:nth-child(2) a {
+	display: block;
+	margin-bottom: 10px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+  
+  
